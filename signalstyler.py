@@ -4,7 +4,7 @@ from datetime import datetime
 
 # إعداداتك
 BOT_TOKEN = "8217048518:AAFmuirZv3RluA-CorQpSduTjg_jS_SsOIQ"
-CHANNEL_ID = "@tttessstty"
+CHANNEL_IDS = ["@tttessstty", "@xtradeforyou"]
 
 # قالب التنسيق الجمالي
 def format_message(raw_text: str) -> str:
